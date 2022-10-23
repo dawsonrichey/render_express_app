@@ -1,0 +1,19 @@
+{
+  "name": "render_express_app",
+  "version": "1.0.0",
+  "description": "Express Hello World on Render",
+  "main": "app.js",
+  "repository": "https://github.com/dawsonrichey/render_express_app",
+  "author": "Dawson Richey",
+  "license": "",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
